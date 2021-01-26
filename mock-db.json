@@ -1,8 +1,22 @@
 {
-  "tasks": [{
-    "id": 1,
-    "text": "Finish coding interview prep",
-    "day": "Feb 4th at 4:30pm",
-    "reminder": true
-  }]
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Finish coding interview prep",
+      "day": "Feb 4th at 4:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Buy groceries",
+      "day": "",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Pay cell phone bill",
+      "day": "Jan 29th",
+      "reminder": false,
+      "id": 3
+    }
+  ]
 }
